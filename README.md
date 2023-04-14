@@ -9,5 +9,8 @@ I am an Electronic Engineer from Federal Technological University of Paraná and
 - LinkedIn: [@joaomnocha](https://www.linkedin.com/in/joaomnocha/)
 
 
+<div align="center">
+  <a href="https://github.com/JohnSeavon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSeavon&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnSeavon&theme=react&line_height=40&hide=css"/> </a>
