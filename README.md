@@ -8,6 +8,6 @@ I am an Electronic Engineer from Federal Technological University of Paraná and
 
 
 <div align="center">
-  <a href="https://github.com/JohnSeavon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSeavon&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joaonovaesch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonovaesch&layout=compact&langs_count=7&theme=dark"/>
 </div>
